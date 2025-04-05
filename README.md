@@ -1,1 +1,1 @@
-# Print Text Art (Windows Only)
+# Print Neko Art (Windows Only)
